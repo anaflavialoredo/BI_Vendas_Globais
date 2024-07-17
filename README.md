@@ -12,7 +12,7 @@ O Dashboard deve responder às seguintes perguntas de negócio e seguir as segui
 O Dashboard deve dar ao usuário a possibilidade de filtrar os dados por ano, por segmento e por país.
 
 <p align="center">
-<img src="https://github.com/2024-1-NADS3/Projeto2/blob/main/img/logo_app.png" border="0" width="280"> <br>
+<img src="https://github.com/anaflavialoredo/BI_Vendas_Globais/blob/main/dash.png" border="0" width="280"> <br>
   Dashboard Analítico de Vendas Globais  <a href="/">
 </p>
 
