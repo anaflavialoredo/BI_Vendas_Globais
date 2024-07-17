@@ -1,6 +1,5 @@
-# BI_Vendas_Globais
 
-### Parte 1: Business Intelligence
+### Business Intelligence
 
 ## 1. Laboratório Prático 1 - Dashboard Analítico de Vendas Globais
 Neste laboratório foram utilizados dados de vendas de uma empresa fictícia que comercializa produtos ao redor do mundo.
