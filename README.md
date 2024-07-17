@@ -10,4 +10,9 @@ O Dashboard deve responder às seguintes perguntas de negócio e seguir as segui
 - Pergunta 4 - Qual foi a média de desconto nas vendas por subcategoria de produto?
 - Pergunta 5 - Quais países tiveram maior média de valor de venda? Demonstre em um mapa.
 O Dashboard deve dar ao usuário a possibilidade de filtrar os dados por ano, por segmento e por país.
-### 1.1. Dashboard Analítico de Vendas Globais
+
+<p align="center">
+<img src="https://github.com/2024-1-NADS3/Projeto2/blob/main/img/logo_app.png" border="0" width="280"> <br>
+  Dashboard Analítico de Vendas Globais  <a href="/">
+</p>
+
