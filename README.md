@@ -16,3 +16,5 @@ O Dashboard deve dar ao usuário a possibilidade de filtrar os dados por ano, po
   Dashboard Analítico de Vendas Globais  <a href="/">
 </p>
 
+Exploramos diversas visualizações, incluindo Cartão de Métricas, Gráfico de Pizza, Gráfico de Barras Empilhadas e Gráfico de Barras Horizontais, além de criar um Mapa Mundial. O laboratório também aborda a aplicação de filtros e segmentações de dados, finalizando com a formatação completa do dashboard, incluindo títulos, imagens e estilos, proporcionando uma conclusão prática e valiosa.
+
