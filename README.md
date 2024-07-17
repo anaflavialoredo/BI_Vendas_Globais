@@ -21,6 +21,10 @@ O Dashboard deve dar ao usuário a possibilidade de filtrar os dados por ano, po
   Dashboard Analítico de Vendas Globais  <a href="/">
 </p>
 
+ <a href="https://edufecap-my.sharepoint.com/:u:/g/personal/ana_santos22_edu_fecap_br/ES_NrTiO_FdAjIkrfMU-dSoBrcHjywwiPnDh_A6M46vhGg?e=ZhCxb9"> Clique aqui para acessar à o dashboard. </a> <br>
+
+
+
 Exploramos diversas visualizações, incluindo Cartão de Métricas, Gráfico de Pizza, Gráfico de Barras Empilhadas e Gráfico de Barras Horizontais, além de criar um Mapa Mundial. O laboratório também aborda a aplicação de filtros e segmentações de dados, finalizando com a formatação completa do dashboard, incluindo títulos, imagens e estilos, proporcionando uma conclusão prática e valiosa.
 
 ---
